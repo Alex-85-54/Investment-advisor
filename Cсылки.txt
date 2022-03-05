@@ -1,2 +1,5 @@
 1. https://habr.com/ru/post/496722/
-2.
+2. https://tinkoff.github.io/investAPI/instruments/#instrumentrequest  *Интрукция к API*
+3. https://github.com/Tinkoff/invest-python   *SDK*
+Библиотека для технического анализа графиков
+4. https://technical-analysis-library-in-python.readthedocs.io/en/latest/index.html
