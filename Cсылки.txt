@@ -3,3 +3,6 @@
 3. https://github.com/Tinkoff/invest-python   *SDK*
 Библиотека для технического анализа графиков
 4. https://technical-analysis-library-in-python.readthedocs.io/en/latest/index.html
+5. https://www.youtube.com/watch?v=eBG8nCfeKXc&t=165s библиотека TA
+Список figi акций
+6. https://aelectrik.ru/stati/ssangyong-korando-skhema-can-shiny/figi-akciy-spisok/
